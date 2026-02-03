@@ -27,7 +27,7 @@ const menuItems = [
 ];
 
 app.get("/menu", (req, res) => {
-  res.json(menu);
+  res.json(menuItems);
 });
 
 
