@@ -11,14 +11,16 @@ const menuItems = [
   description: "Aromatic basmati rice with slow-cooked spices",
   price: 180,
   category: "Rice",
-  image: "https://images.unsplash.com/photo-1604908177522-040c1c6e0b87"
+  image: "/menu/chicken_biryani.jpg"
+
   },
   {
     name: "Paneer Butter Masala",
     description: "Creamy tomato gravy with soft paneer cubes",
     price: "160",
     category: "Curry",
-    image: "https://images.unsplash.com/photo-1604908177522-040c1c6e0b87"
+    image: "/menu/paneer_butter_masala.jpg"
+
   },
   
   {
@@ -26,7 +28,8 @@ const menuItems = [
     description: "Smoky, juicy, and perfectly seasoned",
     price: "220",
     category: "Grill",
-    image: "https://images.unsplash.com/photo-1604908177522-040c1c6e0b87"
+    image: "/menu/grilled_chicken.jpg"
+
   },
 ];
 
